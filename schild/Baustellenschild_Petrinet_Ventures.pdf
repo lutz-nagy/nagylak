@@ -15,7 +15,7 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
 endobj
 6 0 obj
-<< /Length 15865 >>
+<< /Length 15887 >>
 stream
 0.08 0.16 0.26 rg
 0.00 661.00 595.00 181.00 re f
@@ -37,7 +37,7 @@ BT /F2 17 Tf 1 0 0 1 46.00 619.00 Tm (Hinweis auf Bildaufnahmen) Tj ET
 0.29 0.35 0.42 rg
 BT /F2 11 Tf 1 0 0 1 46.00 592.00 Tm (Neudorf 32, 64756 Mossautal \(Unter-Mossau\)) Tj ET
 BT /F1 10.4 Tf 1 0 0 1 46.00 574.00 Tm (Zeitraffer: ein Einzelbild alle 5 Minuten zur Baufortschrittsdokumentation.) Tj ET
-BT /F1 10.4 Tf 1 0 0 1 46.00 557.00 Tm (Sicherheit: PIR-gesteuerte Videos ausschliesslich ausserhalb der Arbeitszeiten.) Tj ET
+BT /F1 10.4 Tf 1 0 0 1 46.00 557.00 Tm (Sicherheit: PIR-gesteuerte Videos ausschlie\337lich au\337erhalb der Arbeitszeiten.) Tj ET
 BT /F1 10.4 Tf 1 0 0 1 46.00 540.00 Tm (Keine Tonaufzeichnung.) Tj ET
 0.85 0.89 0.91 rg
 46.00 523.00 503.00 1.00 re f
@@ -54,12 +54,12 @@ BT /F1 9.3 Tf 1 0 0 1 170.00 416.00 Tm (Art. 6 Abs. 1 lit. f DSGVO \(berechtigte
 0.08 0.16 0.26 rg
 BT /F2 9.5 Tf 1 0 0 1 46.00 390.00 Tm (Zeitrafferbilder) Tj ET
 0.29 0.35 0.42 rg
-BT /F1 9.3 Tf 1 0 0 1 170.00 390.00 Tm (Originale nach Anonymisierung unverzueglich loeschen,) Tj ET
-BT /F1 9.3 Tf 1 0 0 1 170.00 376.00 Tm (spaetestens sechs Monate nach Abschluss der Bauarbeiten.) Tj ET
+BT /F1 9.3 Tf 1 0 0 1 170.00 390.00 Tm (Originale nach Anonymisierung unverz\374glich l\366schen,) Tj ET
+BT /F1 9.3 Tf 1 0 0 1 170.00 376.00 Tm (sp\344testens sechs Monate nach Abschluss der Bauarbeiten.) Tj ET
 0.08 0.16 0.26 rg
 BT /F2 9.5 Tf 1 0 0 1 46.00 350.00 Tm (Sicherheitsvideos) Tj ET
 0.29 0.35 0.42 rg
-BT /F1 9.3 Tf 1 0 0 1 170.00 350.00 Tm (Regelmaessig spaetestens nach 72 Stunden loeschen;) Tj ET
+BT /F1 9.3 Tf 1 0 0 1 170.00 350.00 Tm (Regelm\344\337ig sp\344testens nach 72 Stunden l\366schen;) Tj ET
 BT /F1 9.3 Tf 1 0 0 1 170.00 336.00 Tm (bei konkretem Vorfall erforderliche Beweissicherung.) Tj ET
 0.08 0.16 0.26 rg
 BT /F2 9.5 Tf 1 0 0 1 46.00 310.00 Tm (Speicherorte) Tj ET
@@ -519,14 +519,14 @@ BT /F1 9.3 Tf 1 0 0 1 170.00 310.00 Tm (Zeitraffer: lokal und Google Drive; Sich
 158.35 114.00 4.35 4.35 re f
 162.70 114.00 4.35 4.35 re f
 0.08 0.16 0.26 rg
-BT /F2 12.7 Tf 1 0 0 1 233.00 243.00 Tm (Vollstaendige Datenschutzinformation) Tj ET
+BT /F2 12.7 Tf 1 0 0 1 233.00 243.00 Tm (Vollst\344ndige Datenschutzinformation) Tj ET
 0.29 0.35 0.42 rg
 BT /F1 10.2 Tf 1 0 0 1 233.00 215.00 Tm (Information nach Art. 13 DSGVO,) Tj ET
 BT /F1 10.2 Tf 1 0 0 1 233.00 198.00 Tm (Betroffenenrechte und Kontakt.) Tj ET
 0.08 0.33 0.48 rg
 BT /F2 11 Tf 1 0 0 1 233.00 161.00 Tm (nagylak.petrinet-ventures.de) Tj ET
 0.29 0.35 0.42 rg
-BT /F1 9 Tf 1 0 0 1 46.00 53.00 Tm (Oeffentliche und benachbarte Bereiche sind maskiert.) Tj ET
+BT /F1 9 Tf 1 0 0 1 46.00 53.00 Tm (\326ffentliche und benachbarte Bereiche sind maskiert.) Tj ET
 endstream
 endobj
 xref
@@ -541,5 +541,5 @@ xref
 trailer
 << /Size 7 /Root 1 0 R >>
 startxref
-16373
+16395
 %%EOF
