@@ -15,16 +15,19 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
 endobj
 6 0 obj
-<< /Length 15811 >>
+<< /Length 15843 >>
 stream
 0.08 0.16 0.26 rg
 0.00 661.00 595.00 181.00 re f
 1 1 1 rg
-3 w 1 1 1 RG
+q
+1.52 0 0 1.52 -52 -390 cm
+2.3 w 1 1 1 RG
 77.2 763.9 m 109.6 771.1 l 115 753.1 l 82.6 745.9 l h S
 115 766.6 m 121.3 767.5 l 124.9 754.9 l 117.7 754 l h S
 102.4 748.6 m 110.5 736 l 110.5 730.6 l S
 98.8 730.6 m 122.2 730.6 l S
+Q
 BT /F2 27 Tf 1 0 0 1 156.00 769.00 Tm (BAUSTELLEN-) Tj ET
 BT /F2 27 Tf 1 0 0 1 156.00 734.00 Tm (KAMERA) Tj ET
 BT /F1 12 Tf 1 0 0 1 158.00 704.00 Tm (ZEITRAFFER & DIEBSTAHLSCHUTZ) Tj ET
@@ -537,5 +540,5 @@ xref
 trailer
 << /Size 7 /Root 1 0 R >>
 startxref
-16319
+16351
 %%EOF
